@@ -34,5 +34,5 @@ Voici comment on utilise les commandes appris :
 > On apprend même à faire des choses comme ça
 
 Voici le [wikipedia des mangoustes][1], un animal que j'apprecie tout particulierement.
-[1]:https://fr.wikipedia.org/wiki/Herpestidae
+[1]:https://fr.wikipedia.org/wiki/Herpestidae "wikipedia des mangoustes"
 Je peux le prouver notamment via ![Cette image de mangouste](https://www.terretous.com/wp-content/uploads/2014/05/basel_zoo_mangouste_jaune_44726_70603.jpg)
