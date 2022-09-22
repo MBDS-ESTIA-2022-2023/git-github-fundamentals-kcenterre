@@ -1,9 +1,9 @@
 
-#J'ai appris les commandes suivantes : 
+# J'ai appris les commandes suivantes : 
 
 
-##git clone
-##git add . 
-##git commit -m ""
-##git status
-##git push 
+## git clone
+## git add . 
+## git commit -m ""
+## git status
+## git push 
